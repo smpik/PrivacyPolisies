@@ -1,0 +1,14 @@
+Privacy Policy
+
+"Virtual Sound" (refferd to as "this app") has the following privacy policy regarding the handling of information including personal information of users.
+
+1. User information
+In order to display advertisements, user information may be collected by the advertisement distributor, but the developer of this application does not collect any user information.
+
+2. Permission
+This app requires the following permissions:
+2.1. Camera
+- Used to determine if you touched a line drawn in the game.
+- Camera footage is never saved.
+2.2. Storage
+- Used to read audio files.
