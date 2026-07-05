@@ -38,4 +38,4 @@ RinRin 利用規約
 本規約は日本法に準拠します。本アプリに関する紛争については、運営者の所在地を管轄する裁判所を第一審の専属的合意管轄とします。
 
 【お問い合わせ】
-https://github.com/smpik/rinrin/issues よりご連絡ください。
+https://github.com/smpik/PrivacyPolisies/issues よりご連絡ください。
